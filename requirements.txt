@@ -1,5 +1,6 @@
 flask
 gunicorn
+twilio
 python-dotenv
 requests
 num2words
