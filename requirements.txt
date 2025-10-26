@@ -1,5 +1,6 @@
 flask
-twilio
+gunicorn
 python-dotenv
-python-docx
+requests
 num2words
+python-docx
