@@ -1,0 +1,5 @@
+.env
+data/
+invoices/
+*.pyc
+__pycache__/

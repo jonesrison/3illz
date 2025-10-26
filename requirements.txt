@@ -1,5 +1,5 @@
 flask
 twilio
 python-dotenv
-requests
 python-docx
+num2words

@@ -1,0 +1,22 @@
+{
+  "Pothys Ernakulam": {
+    "client_address": "Pothys Retail Private Limited, Kc 65/4875/A-b, Banerji Road,Kaloor, Ernakulam, Kerala-682017",
+    "gst_number": "32AALCP2218B2ZY",
+    "tax_type": "CGST_SGST"
+  },
+  "Kalyan Silks": {
+    "client_address": "KALYAN SILKS TRICHUR (P) LTD.",
+    "gst_number": "32AABCK5929J1ZH",
+    "tax_type": "CGST_SGST"
+  },
+  "Pothys Trivandrum": {
+    "client_address": "POTHYS RETAIL PRIVATE LIMITED, NIKUNJAM CITY SQUARE TC 28/2477/1-8 POTHYS MG RAOD AYURVEDA COLLEGE Kerala",
+    "gst_number": "32AALCP2218B1ZZ",
+    "tax_type": "CGST_SGST"
+  },
+  "Persist Client": {
+    "client_address": "Addr",
+    "gst_number": "GST",
+    "tax_type": "CGST_SGST"
+  }
+}
