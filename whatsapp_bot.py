@@ -9,6 +9,9 @@ from ai_parser import parse_message_with_ai
 
 load_dotenv()
 app = Flask(__name__)
+@app.route("/", methods=["GET"])
+def home():
+    return "✅ WhatsApp Invoice Bot is live on Railway!"
 
 DATA_DIR = "data"
 CLIENT_FILE = os.path.join(DATA_DIR, "clients.json")
